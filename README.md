@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Make it work then optimize.
+Start from small then improve.
+
 <!--
 **JunSayke/JunSayke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
