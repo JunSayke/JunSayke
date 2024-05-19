@@ -1,10 +1,16 @@
 ### Hi there 👋
 
+### TIPS
 Make it work then optimize.
 
 Start from small then expand.
 
 Lastly, touch some grass.
+
+### Principles
+Don't Repeat Yourself
+
+Single Responsibility
 <!--
 **JunSayke/JunSayke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
