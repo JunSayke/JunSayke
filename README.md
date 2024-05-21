@@ -13,7 +13,8 @@ Learn various algorithms (Data Structure and Algorithms)
 
 Lastly, touch some grass.
 
-### Principles
+
+### PRINCIPLES
 Don't Repeat Yourself
 
 Single Responsibility
