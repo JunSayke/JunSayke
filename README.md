@@ -13,6 +13,7 @@ Learn various algorithms (Data Structure and Algorithms)
 
 Lastly, touch some grass.
 
+-----
 
 ### PRINCIPLES
 Don't Repeat Yourself
