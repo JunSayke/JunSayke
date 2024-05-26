@@ -16,9 +16,15 @@ Lastly, touch some grass.
 -----
 
 ### PRINCIPLES
-Don't Repeat Yourself
+(DRY) Don't Repeat Yourself
 
-Single Responsibility
+(SOLID) Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregationn, Dependency Inversion
+
+(KISS) Keep It Simple, Stupid
+
+(YAGNI) You Aren't Gonna Need It
+
+Aim for cleaner code
 
 Utilize programming patterns (Creational, Structural, Behavioural)
 <!--
