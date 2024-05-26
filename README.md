@@ -9,11 +9,11 @@ Don't hesitate to copy code from others.
 
 Don't just copy, understand it.
 
+Learn various algorithms (Data Structure and Algorithms)
+
 Know what you have to know
 
 You don't need to learn everthing
-
-Learn various algorithms (Data Structure and Algorithms)
 
 Lastly, touch some grass.
 
