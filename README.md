@@ -31,6 +31,8 @@ Lastly, touch some grass.
 Aim for cleaner code
 
 Utilize programming patterns (Creational, Structural, Behavioural)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsayke&hide_progress=true)
 <!--
 **JunSayke/JunSayke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
