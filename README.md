@@ -31,8 +31,6 @@ Lastly, touch some grass.
 Aim for cleaner code
 
 Utilize programming patterns (Creational, Structural, Behavioural)
-
-[![JunSayke's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunSayke)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JunSayke/JunSayke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
