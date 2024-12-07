@@ -15,6 +15,8 @@ Don't hesitate to copy code from others.
 
 Don't just copy, understand it.
 
+Take time to learn your tech stack convention because it will guides you along the way.
+
 Try doing some leetcode or hackerank etc.
 
 Create a portfolio.
