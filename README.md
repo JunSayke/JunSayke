@@ -9,11 +9,11 @@ Don't hesitate to copy code from others.
 
 Don't just copy, understand it.
 
-Learn various algorithms (Data Structure and Algorithms)
+Learn various algorithms (Data Structure and Algorithms).
 
-Know what you have to know
+Know what you have to know.
 
-You don't need to learn everthing
+You don't need to learn everthing.
 
 Try doing some leetcode or hackerank etc.
 
@@ -22,6 +22,10 @@ Create a portfolio.
 Write minimal comments for your code in the case you're going back after a long time.
 
 Document your code if you have the time to help future collaborators.
+
+Learn to read docs.
+
+Self learning is your best friend.
 
 Lastly, touch some grass.
 
