@@ -1,6 +1,12 @@
 # 💫 Hi there 👋
 
 ### 📌 TIPS
+Learn various algorithms (Data Structure and Algorithms).
+
+Know what you have to know.
+
+You don't need to learn everthing.
+
 Make it work then optimize.
 
 Start from small then expand.
@@ -8,12 +14,6 @@ Start from small then expand.
 Don't hesitate to copy code from others.
 
 Don't just copy, understand it.
-
-Learn various algorithms (Data Structure and Algorithms).
-
-Know what you have to know.
-
-You don't need to learn everthing.
 
 Try doing some leetcode or hackerank etc.
 
